@@ -1,0 +1,14 @@
+Hello New data[
+    {
+        "id": 1,
+        "name": "Rahul",
+        "age": 21,
+        "course": "B.Tech"
+    },
+    {
+        "id": 2,
+        "name": "Amit",
+        "age": 22,
+        "course": "BCA"
+    }
+]
